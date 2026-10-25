@@ -1,0 +1,1012 @@
+material,observable,model,unfolding,x,y,estimator
+gas,ratio_cdf,poisson,not_applicable,0.01,0.019177595628415103,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.02,0.0386885245901639,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.03,0.05738251366120211,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.04,0.07592622950819643,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.05,0.09434972677595625,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.06,0.11226502732240407,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.07,0.12980601092896157,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.08,0.14665846994535525,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.09,0.1636885245901638,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.1,0.18033333333333368,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.11,0.19663387978142094,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.12,0.21309562841530072,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.13,0.22915300546448053,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.14,0.24426502732240477,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.15,0.2597131147540986,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.16,0.27469125683060097,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.17,0.2897568306010939,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.18,0.30436338797814255,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.19,0.3184043715847007,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.2,0.33219945355191405,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.21,0.3458360655737713,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.22,0.3598497267759563,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.23,0.3731830601092904,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.24,0.3864098360655739,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.25,0.39902185792349615,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.26,0.4117540983606547,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.27,0.4243005464480874,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.28,0.4367732240437136,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.29,0.44861748633879606,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.3,0.4605191256830587,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.31,0.4721010928961745,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.32,0.48342896174863376,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.33,0.49504098360655696,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.34,0.506191256830601,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.35,0.5173306010928973,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.36,0.5286721311475407,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.37,0.5397431693989091,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.38,0.5502595628415313,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.39,0.5603633879781439,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.4,0.5710765027322414,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.41,0.581245901639345,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.42,0.5911885245901674,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.43,0.6011967213114763,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.44,0.6110901639344288,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.45,0.6205792349726796,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.46,0.6299617486338819,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.47,0.6394836065573782,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.48,0.6486612021857932,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.49,0.6575819672131153,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.5,0.6666666666666671,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.51,0.6755464480874327,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.52,0.6841502732240432,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.53,0.6927759562841529,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.54,0.7010081967213099,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.55,0.709428961748635,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.56,0.7176721311475418,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.57,0.7258879781420756,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.58,0.7338825136612012,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.59,0.7419180327868862,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.6,0.7494836065573756,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.61,0.7573087431693974,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.62,0.7646256830601096,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.63,0.772213114754097,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.64,0.7796338797814186,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.65,0.7872923497267733,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.66,0.7946256830601058,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.67,0.8019480874316895,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.68,0.8090655737704892,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.69,0.8161284153005424,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.7,0.8229535519125641,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.71,0.8298469945355162,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.72,0.8366885245901624,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.73,0.843445355191253,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.74,0.8498770491803226,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.75,0.8564890710382478,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.76,0.8630901639344223,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.77,0.8695737704917992,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.78,0.875964480874313,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.79,0.8822404371584639,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.8,0.8883579234972653,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.81,0.8946174863387936,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.82,0.9006775956284113,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.83,0.9069453551912527,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.84,0.912866120218574,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.85,0.9187049180327814,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.86,0.9244098360655705,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.87,0.9302131147540935,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.88,0.935797814207646,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.89,0.9416448087431639,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.9,0.9471393442622911,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.91,0.9526420765027303,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.92,0.9579180327868843,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.93,0.9634562841530064,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.94,0.9689180327868866,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.95,0.9742103825136611,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.96,0.9794999999999969,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.97,0.9847021857923435,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.98,0.98981147540983,2000-training-realization mean
+gas,ratio_cdf,poisson,not_applicable,0.99,0.9949890710382512,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.01,0.0003442622950819675,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.02,0.001333333333333329,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.03,0.0031393442622950646,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.04,0.005404371584699398,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.05,0.008475409836065479,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.06,0.011923497267759452,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.07,0.016035519125682976,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.08,0.02069672131147524,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.09,0.025893442622950572,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.1,0.031379781420764905,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.11,0.037562841530054625,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.12,0.04409289617486338,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.13,0.05130601092896166,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.14,0.058890710382513645,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.15,0.0666994535519124,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.16,0.0749207650273222,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.17,0.08377868852458994,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.18,0.0928469945355191,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.19,0.1021338797814208,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.2,0.11175683060109289,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.21,0.1216202185792347,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.22,0.13210928961748605,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.23,0.14257377049180311,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.24,0.1531010928961748,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.25,0.163849726775956,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.26,0.17486612021857917,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.27,0.18625683060109327,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.28,0.19787978142076568,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.29,0.20994535519125648,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.3,0.22171038251366088,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.31,0.23354644808743175,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.32,0.2453688524590165,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.33,0.2573661202185795,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.34,0.26925956284153046,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.35,0.28148907103825144,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.36,0.293748633879782,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.37,0.306101092896176,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.38,0.3185846994535524,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.39,0.33125683060109423,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.4,0.3438879781420773,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.41,0.3565546448087425,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.42,0.36912295081967256,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.43,0.3814043715846999,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.44,0.3940628415300535,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.45,0.40634972677595493,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.46,0.41854098360655684,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.47,0.4311721311475396,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.48,0.44348633879781335,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.49,0.45589890710382475,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.5,0.4683825136612011,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.51,0.4810546448087426,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.52,0.49339071038251386,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.53,0.505661202185792,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.54,0.5183333333333338,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.55,0.5303934426229515,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.56,0.5428743169398919,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.57,0.5552404371584717,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.58,0.5670163934426251,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.59,0.5788333333333348,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.6,0.590734972677597,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.61,0.602639344262296,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.62,0.6143278688524598,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.63,0.6257704918032798,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.64,0.6375000000000015,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.65,0.6493825136612028,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.66,0.6604344262295085,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.67,0.6719426229508212,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.68,0.683278688524592,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.69,0.6945874316939905,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.7,0.705497267759564,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.71,0.7166448087431707,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.72,0.7277377049180327,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.73,0.7388333333333321,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.74,0.7496420765027315,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.75,0.7602568306010893,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.76,0.7709180327868834,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.77,0.7816475409836046,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.78,0.792524590163931,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.79,0.8029289617486312,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.8,0.8129918032786854,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.81,0.8233224043715801,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.82,0.8335273224043677,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.83,0.8434590163934398,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.84,0.853349726775951,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.85,0.8634207650273195,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.86,0.8731912568305973,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.87,0.882778688524586,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.88,0.8924262295081915,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.89,0.9018224043715789,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.9,0.9109016393442589,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.91,0.9201338797814171,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.92,0.9292704918032745,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.93,0.9381530054644773,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.94,0.9468661202185761,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.95,0.9561338797814172,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.96,0.9651147540983589,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.97,0.9740655737704916,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.98,0.9829508196721289,2000-training-realization mean
+gas,ratio_cdf,goe,not_applicable,0.99,0.991478142076498,2000-training-realization mean
+gas,ratio_cdf_exact,physical,not_applicable,0.0,0.0,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.01266973291044014,0.00546448087431694,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.018192905811440674,0.01092896174863388,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.041975387343456405,0.01639344262295082,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.04359180738211807,0.02185792349726776,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.05600344606520369,0.0273224043715847,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.05635212850430519,0.03278688524590164,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.05664494524298366,0.03825136612021858,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.057619651238584466,0.04371584699453552,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.07058876474442793,0.04918032786885246,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.1365028420866843,0.0546448087431694,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.1396077578822088,0.060109289617486336,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.14356633254747414,0.06557377049180328,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.14850652497576508,0.07103825136612021,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.1520965735389675,0.07650273224043716,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.1528462241041083,0.08196721311475409,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.15387999995979326,0.08743169398907104,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.15757118162917463,0.09289617486338798,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.16797560868274977,0.09836065573770492,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.17044654526956052,0.10382513661202186,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.1779000755948357,0.1092896174863388,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.17978367107639626,0.11475409836065574,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.18173969159056666,0.12021857923497267,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.1840971425259797,0.12568306010928962,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.1870651749504318,0.13114754098360656,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.19164507291731595,0.1366120218579235,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.20921200295169595,0.14207650273224043,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.22216664793684174,0.14754098360655737,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.2296215279088401,0.15300546448087432,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.23334482054932776,0.15846994535519127,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.23874490956431024,0.16393442622950818,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.2399243459706528,0.16939890710382513,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.2402842651206739,0.17486338797814208,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.24712724222653437,0.18032786885245902,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.24712757003158503,0.18579234972677597,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.24950493726342,0.1912568306010929,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.26147240529708937,0.19672131147540983,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.27308993599495235,0.20218579234972678,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.2732837611885338,0.20765027322404372,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.27400747713469387,0.21311475409836064,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.2791708419636899,0.2185792349726776,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.2841340367076426,0.22404371584699453,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.2865791319395852,0.22950819672131148,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.28850056652444334,0.23497267759562843,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.2995711165930742,0.24043715846994534,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.304504045727924,0.2459016393442623,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.3160042741355946,0.25136612021857924,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.3180221119688302,0.2568306010928962,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.31894053912962655,0.26229508196721313,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.31998394814931097,0.2677595628415301,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.3316993810195927,0.273224043715847,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.33314407304629323,0.2786885245901639,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.34477447373357567,0.28415300546448086,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.35274251265865575,0.2896174863387978,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.36003674312840406,0.29508196721311475,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.36050542899491156,0.3005464480874317,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.36244771031106504,0.30601092896174864,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.37552699544201706,0.3114754098360656,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.382512131240992,0.31693989071038253,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.3826086363797545,0.3224043715846995,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.38457910692498687,0.32786885245901637,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.3847326213846285,0.3333333333333333,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.39132150792418424,0.33879781420765026,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.398925589323282,0.3442622950819672,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4023829969865842,0.34972677595628415,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4026759067030016,0.3551912568306011,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.40344791185788903,0.36065573770491804,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.40691971838052254,0.366120218579235,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.416491722718402,0.37158469945355194,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.41855578860812404,0.3770491803278688,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.42548507573687155,0.3825136612021858,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4272850910131559,0.3879781420765027,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4375763485645614,0.39344262295081966,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4399471148457551,0.3989071038251366,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.44160303659804295,0.40437158469945356,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4436579265209338,0.4098360655737705,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4496484570276568,0.41530054644808745,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.45997885975034347,0.4207650273224044,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4630722668384985,0.4262295081967213,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4662854926582294,0.43169398907103823,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.46714249856321033,0.4371584699453552,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.46827776466495963,0.4426229508196721,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4688071660215023,0.44808743169398907,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.476501009925485,0.453551912568306,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.47957961368309915,0.45901639344262296,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.48635105457990546,0.4644808743169399,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.48704122874539524,0.46994535519125685,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.49418350714851284,0.47540983606557374,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4942261639023679,0.4808743169398907,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.49720672297517166,0.48633879781420764,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.49848367433808005,0.4918032786885246,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.4995742619597222,0.4972677595628415,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5018801907456708,0.5027322404371585,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.502126619946545,0.5081967213114754,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.503337765449814,0.5136612021857924,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5090127410508327,0.5191256830601093,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5123741311929807,0.5245901639344263,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5132002222034362,0.5300546448087432,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5139809439188621,0.5355191256830601,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5163788241864682,0.5409836065573771,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5173549672477646,0.546448087431694,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5180731427236577,0.5519125683060109,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5181718999617364,0.5573770491803278,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5232009109335473,0.5628415300546448,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5235033445992419,0.5683060109289617,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5267030737261204,0.5737704918032787,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5300606392012569,0.5792349726775956,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5334056316217848,0.5846994535519126,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5341787648561753,0.5901639344262295,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5377472183388355,0.5956284153005464,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5392256165910834,0.6010928961748634,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5410539596250866,0.6065573770491803,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5437638812613487,0.6120218579234973,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5459352733430941,0.6174863387978142,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5478525307924158,0.6229508196721312,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5529868283034053,0.6284153005464481,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.557274412810895,0.6338797814207651,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5580453036906706,0.639344262295082,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5593097124285756,0.644808743169399,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5611910587723934,0.6502732240437158,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5744702742392193,0.6557377049180327,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5758774078382142,0.6612021857923497,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5775591454734871,0.6666666666666666,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5832196137200503,0.6721311475409836,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5834599489342815,0.6775956284153005,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5882626381394794,0.6830601092896175,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5918482108390631,0.6885245901639344,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.5947910601790465,0.6939890710382514,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6033698819859211,0.6994535519125683,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6047951168535843,0.7049180327868853,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6064582569383657,0.7103825136612022,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6066119181627869,0.7158469945355191,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6138320792580623,0.7213114754098361,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6169989604500742,0.726775956284153,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6357833064919219,0.73224043715847,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6410858336987804,0.7377049180327869,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6415585308478764,0.7431693989071039,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6469925060935696,0.7486338797814208,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6636243237651196,0.7540983606557377,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6799690626620949,0.7595628415300546,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6838025993082881,0.7650273224043715,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6931814751622531,0.7704918032786885,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6936045846675537,0.7759562841530054,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.6947850469330943,0.7814207650273224,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.7253422683335348,0.7868852459016393,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.7289598873016173,0.7923497267759563,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.7313791408040718,0.7978142076502732,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.74714271949015,0.8032786885245902,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.7483857482745649,0.8087431693989071,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.7644958192068025,0.8142076502732241,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.7764902374211872,0.819672131147541,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.7832798510804191,0.825136612021858,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.7888263251470354,0.8306010928961749,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.794723162920174,0.8360655737704918,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.8043049842143366,0.8415300546448088,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.8059488394013107,0.8469945355191257,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.8116467901075366,0.8524590163934426,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.8139575890804022,0.8579234972677595,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.834413875068675,0.8633879781420765,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.8353483832574375,0.8688524590163934,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.847669646966338,0.8743169398907104,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.8664443465781665,0.8797814207650273,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.8757914646694307,0.8852459016393442,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.880545086486838,0.8907103825136612,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.8843179769100795,0.8961748633879781,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.884735377639498,0.9016393442622951,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9072478381871556,0.907103825136612,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9073914540100635,0.912568306010929,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.908480796176525,0.9180327868852459,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9111373082008504,0.9234972677595629,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9117056217323583,0.9289617486338798,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9174682223927642,0.9344262295081968,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9243992952831771,0.9398907103825137,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9296114216831616,0.9453551912568307,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9299025833294252,0.9508196721311475,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9361642135208703,0.9562841530054644,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9404607121043879,0.9617486338797814,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9445615594399149,0.9672131147540983,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9570476368498544,0.9726775956284153,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.958906472582404,0.9781420765027322,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9642889071942251,0.9836065573770492,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9652326795529731,0.9890710382513661,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9704774487104786,0.994535519125683,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,0.9819982909302759,1.0,exact empirical step function
+gas,ratio_cdf_exact,physical,not_applicable,1.0,1.0,exact empirical step function
+gas,ratio_cdf_test_grid,physical,not_applicable,0.01,0.0,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.02,0.01092896174863388,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.03,0.01092896174863388,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.04,0.01092896174863388,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.05,0.02185792349726776,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.06,0.04371584699453552,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.07,0.04371584699453552,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.08,0.04918032786885246,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.09,0.04918032786885246,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.1,0.04918032786885246,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.11,0.04918032786885246,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.12,0.04918032786885246,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.13,0.04918032786885246,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.14,0.060109289617486336,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.15,0.07103825136612021,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.16,0.09289617486338798,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.17,0.09836065573770492,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.18,0.11475409836065574,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.19,0.13114754098360656,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.2,0.1366120218579235,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.21,0.14207650273224043,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.22,0.14207650273224043,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.23,0.15300546448087432,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.24,0.16939890710382513,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.25,0.1912568306010929,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.26,0.1912568306010929,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.27,0.19672131147540983,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.28,0.2185792349726776,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.29,0.23497267759562843,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.3,0.24043715846994534,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.31,0.2459016393442623,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.32,0.2677595628415301,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.33,0.2677595628415301,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.34,0.2786885245901639,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.35,0.28415300546448086,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.36,0.2896174863387978,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.37,0.30601092896174864,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.38,0.3114754098360656,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.39,0.3333333333333333,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.4,0.3442622950819672,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.41,0.366120218579235,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.42,0.3770491803278688,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.43,0.3879781420765027,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.44,0.3989071038251366,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.45,0.41530054644808745,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.46,0.4207650273224044,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.47,0.44808743169398907,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.48,0.45901639344262296,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.49,0.46994535519125685,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.5,0.4972677595628415,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.51,0.5191256830601093,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.52,0.5573770491803278,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.53,0.5737704918032787,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.54,0.6010928961748634,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.55,0.6229508196721312,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.56,0.644808743169399,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.57,0.6502732240437158,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.58,0.6666666666666666,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.59,0.6830601092896175,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.6,0.6939890710382514,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.61,0.7158469945355191,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.62,0.726775956284153,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.63,0.726775956284153,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.64,0.73224043715847,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.65,0.7486338797814208,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.66,0.7486338797814208,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.67,0.7540983606557377,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.68,0.7595628415300546,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.69,0.7650273224043715,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.7,0.7814207650273224,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.71,0.7814207650273224,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.72,0.7814207650273224,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.73,0.7923497267759563,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.74,0.7978142076502732,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.75,0.8087431693989071,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.76,0.8087431693989071,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.77,0.8142076502732241,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.78,0.819672131147541,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.79,0.8306010928961749,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.8,0.8360655737704918,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.81,0.8469945355191257,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.82,0.8579234972677595,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.83,0.8579234972677595,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.84,0.8688524590163934,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.85,0.8743169398907104,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.86,0.8743169398907104,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.87,0.8797814207650273,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.88,0.8852459016393442,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.89,0.9016393442622951,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.9,0.9016393442622951,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.91,0.9180327868852459,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.92,0.9344262295081968,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.93,0.9508196721311475,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.94,0.9562841530054644,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.95,0.9672131147540983,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.96,0.9781420765027322,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.97,0.9890710382513661,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.98,0.994535519125683,99 fixed inference grid points
+gas,ratio_cdf_test_grid,physical,not_applicable,0.99,1.0,99 fixed inference grid points
+gas,number_variance,poisson,affine,1.0,0.988193359375,2000-training-realization mean
+gas,number_variance,poisson,affine,2.0,1.9692998046875,2000-training-realization mean
+gas,number_variance,poisson,affine,4.0,3.8975234375,2000-training-realization mean
+gas,number_variance,poisson,affine,8.0,7.6130751953125,2000-training-realization mean
+gas,number_variance,goe,affine,1.0,0.4449326171875,2000-training-realization mean
+gas,number_variance,goe,affine,2.0,0.5809326171875,2000-training-realization mean
+gas,number_variance,goe,affine,4.0,0.72106640625,2000-training-realization mean
+gas,number_variance,goe,affine,8.0,0.863763671875,2000-training-realization mean
+gas,number_variance,physical,affine,1.0,0.529296875,512 origins; accepted finite-window estimator
+gas,number_variance,physical,affine,2.0,0.765625,512 origins; accepted finite-window estimator
+gas,number_variance,physical,affine,4.0,1.357421875,512 origins; accepted finite-window estimator
+gas,number_variance,physical,affine,8.0,2.423828125,512 origins; accepted finite-window estimator
+gas,number_variance,poisson,quadratic,1.0,0.9855947265625,2000-training-realization mean
+gas,number_variance,poisson,quadratic,2.0,1.9557314453125,2000-training-realization mean
+gas,number_variance,poisson,quadratic,4.0,3.8414775390625,2000-training-realization mean
+gas,number_variance,poisson,quadratic,8.0,7.359009765625,2000-training-realization mean
+gas,number_variance,goe,quadratic,1.0,0.44522265625,2000-training-realization mean
+gas,number_variance,goe,quadratic,2.0,0.5808330078125,2000-training-realization mean
+gas,number_variance,goe,quadratic,4.0,0.720421875,2000-training-realization mean
+gas,number_variance,goe,quadratic,8.0,0.860607421875,2000-training-realization mean
+gas,number_variance,physical,quadratic,1.0,0.521484375,512 origins; accepted finite-window estimator
+gas,number_variance,physical,quadratic,2.0,0.779296875,512 origins; accepted finite-window estimator
+gas,number_variance,physical,quadratic,4.0,1.33984375,512 origins; accepted finite-window estimator
+gas,number_variance,physical,quadratic,8.0,2.427734375,512 origins; accepted finite-window estimator
+aluminum,ratio_cdf,poisson,not_applicable,0.01,0.019189560439560882,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.02,0.03871703296703358,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.03,0.05742582417582471,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.04,0.07600549450549497,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.05,0.09441758241758288,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.06,0.11233516483516509,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.07,0.12986813186813234,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.08,0.14672527472527525,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.09,0.16376923076923086,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.1,0.18039835164835172,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.11,0.19670329670329637,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.12,0.21316758241758205,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.13,0.2292417582417576,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.14,0.24435439560439623,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.15,0.2598049450549451,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.16,0.2747664835164832,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.17,0.28980494505494553,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.18,0.30441483516483503,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.19,0.3184697802197802,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.2,0.33226648351648247,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.21,0.34589285714285684,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.22,0.3599175824175819,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.23,0.3732554945054933,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.24,0.3864917582417582,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.25,0.3991071428571417,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.26,0.41184890109890004,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.27,0.4244093406593408,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.28,0.43688461538461504,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.29,0.44874175824175766,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.3,0.46064835164835116,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.31,0.4722197802197804,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.32,0.4835686813186802,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.33,0.4951593406593409,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.34,0.5062912087912083,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.35,0.5174120879120889,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.36,0.5287582417582425,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.37,0.5398186813186808,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.38,0.550318681318683,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.39,0.560403846153847,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.4,0.5711208791208787,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.41,0.5813049450549449,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.42,0.591241758241759,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.43,0.6012390109890107,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.44,0.6111456043956063,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.45,0.6206098901098899,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.46,0.6299862637362632,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.47,0.6395274725274731,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.48,0.6487170329670338,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.49,0.6576456043956038,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.5,0.666733516483516,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.51,0.6755769230769232,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.52,0.6841813186813187,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.53,0.6928214285714293,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.54,0.7010549450549451,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.55,0.7094752747252727,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.56,0.7177307692307682,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.57,0.7259478021978011,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.58,0.7339258241758254,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.59,0.7419670329670326,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.6,0.7495109890109884,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.61,0.7573241758241754,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.62,0.7646538461538441,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.63,0.7722417582417576,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.64,0.7796675824175826,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.65,0.7873324175824202,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.66,0.7946703296703285,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.67,0.8019917582417565,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.68,0.8090879120879128,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.69,0.8161593406593414,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.7,0.8229917582417591,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.71,0.82987912087912,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.72,0.8367307692307703,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.73,0.843486263736264,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.74,0.8499258241758271,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.75,0.8565384615384662,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.76,0.8631291208791235,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.77,0.8696016483516517,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.78,0.8759807692307735,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.79,0.8822692307692319,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.8,0.8883708791208802,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.81,0.8946373626373626,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.82,0.9006703296703286,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.83,0.9069423076923051,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.84,0.9128598901098843,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.85,0.9186950549450505,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.86,0.9244038461538404,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.87,0.9301923076922999,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.88,0.9357774725274666,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.89,0.9416263736263695,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.9,0.9471263736263719,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.91,0.9526428571428568,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.92,0.957923076923079,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.93,0.9634587912087955,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.94,0.9689148351648407,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.95,0.9742060439560503,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.96,0.9794807692307747,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.97,0.9846840659340726,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.98,0.9897967032967113,2000-training-realization mean
+aluminum,ratio_cdf,poisson,not_applicable,0.99,0.9949780219780313,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.01,0.00034615384615384575,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.02,0.001340659340659337,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.03,0.003153846153846144,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.04,0.0054065934065933895,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.05,0.008478021978021992,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.06,0.011931318681318897,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.07,0.016041208791209138,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.08,0.020692307692308187,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.09,0.02589285714285768,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.1,0.031392857142857666,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.11,0.03755219780219837,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.12,0.04407967032967085,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.13,0.051296703296703806,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.14,0.058884615384615965,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.15,0.06668956043956098,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.16,0.07489835164835229,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.17,0.08375274725274784,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.18,0.09280494505494548,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.19,0.1020906593406599,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.2,0.1117197802197806,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.21,0.12159340659340695,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.22,0.13207967032967086,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.23,0.14251648351648363,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.24,0.15304945054945124,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.25,0.16379945054945116,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.26,0.1748269230769233,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.27,0.18621153846153826,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.28,0.19783241758241746,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.29,0.20988736263736224,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.3,0.22164285714285664,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.31,0.2334999999999994,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.32,0.245318681318681,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.33,0.25734340659340743,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.34,0.2692390109890114,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.35,0.28148076923076953,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.36,0.29372527472527427,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.37,0.30608791208791253,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.38,0.3186043956043951,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.39,0.33126098901098844,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.4,0.34388461538461523,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.41,0.3565247252747247,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.42,0.3691071428571419,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.43,0.3813571428571424,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.44,0.3939999999999999,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.45,0.40628296703296696,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.46,0.4184807692307685,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.47,0.43112637362637346,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.48,0.4434532967032962,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.49,0.4558791208791194,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.5,0.46835989010988865,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.51,0.4810109890109887,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.52,0.4933653846153842,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.53,0.5056291208791202,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.54,0.5183131868131874,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.55,0.530379120879122,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.56,0.5428681318681318,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.57,0.5552197802197799,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.58,0.5670192307692319,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.59,0.5788461538461543,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.6,0.5907417582417587,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.61,0.6026318681318676,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.62,0.6143296703296687,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.63,0.6257664835164825,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.64,0.6375027472527475,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.65,0.6493543956043942,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.66,0.6604038461538481,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.67,0.6719093406593412,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.68,0.6832500000000017,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.69,0.694576923076923,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.7,0.7054862637362637,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.71,0.7166428571428565,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.72,0.7277499999999995,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.73,0.7388598901098894,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.74,0.7496428571428594,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.75,0.760250000000003,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.76,0.7708928571428582,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.77,0.781620879120879,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.78,0.7924807692307687,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.79,0.8029093406593399,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.8,0.8129725274725272,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.81,0.8233021978021986,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.82,0.8335054945054959,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.83,0.8434285714285723,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.84,0.8533159340659373,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.85,0.8633873626373666,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.86,0.8731620879120933,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.87,0.8827417582417617,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.88,0.8923901098901118,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.89,0.9017994505494482,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.9,0.9108681318681277,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.91,0.9200989010988971,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.92,0.929244505494498,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.93,0.9381236263736203,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.94,0.9468406593406558,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.95,0.9561043956043959,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.96,0.9650961538461565,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.97,0.9740494505494559,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.98,0.9829340659340725,2000-training-realization mean
+aluminum,ratio_cdf,goe,not_applicable,0.99,0.9914780219780308,2000-training-realization mean
+aluminum,ratio_cdf_exact,physical,not_applicable,0.0,0.0,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.037006326995709694,0.005494505494505495,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.06790809999721972,0.01098901098901099,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.08953639539265731,0.016483516483516484,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.10231399434963433,0.02197802197802198,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.10828712703567557,0.027472527472527472,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.12660350472945292,0.03296703296703297,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.12883442051782207,0.038461538461538464,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.1293164837056991,0.04395604395604396,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.16323285384409328,0.04945054945054945,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.17705095807998233,0.054945054945054944,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.18339234267769922,0.06043956043956044,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.18396627343679997,0.06593406593406594,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.18814676985086864,0.07142857142857142,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.19446837998052866,0.07692307692307693,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.20479717397386057,0.08241758241758242,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.20782017752895945,0.08791208791208792,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.21362796813965218,0.09340659340659341,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.21800757697630616,0.0989010989010989,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.21934847425322526,0.1043956043956044,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.2273953353115498,0.10989010989010989,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.22917430923036494,0.11538461538461539,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.2347720893984101,0.12087912087912088,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.23907577687326442,0.12637362637362637,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.23914870736029784,0.13186813186813187,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.24207211572825624,0.13736263736263737,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.24219466743229584,0.14285714285714285,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.2524918517992196,0.14835164835164835,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.26469420322658704,0.15384615384615385,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.27414371689082406,0.15934065934065933,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.2752843531694589,0.16483516483516483,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.2755237155824356,0.17032967032967034,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.2790959032706235,0.17582417582417584,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.28199756848561625,0.1813186813186813,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.29320173449443726,0.18681318681318682,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.29978334479573665,0.19230769230769232,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.30028481257719714,0.1978021978021978,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.30181065801856216,0.2032967032967033,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.30673123598959445,0.2087912087912088,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.31154775996171435,0.21428571428571427,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.31371817258764734,0.21978021978021978,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.31394984347488125,0.22527472527472528,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.3152812096375187,0.23076923076923078,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.31693076308382007,0.23626373626373626,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.31915801128403987,0.24175824175824176,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.3212715226908824,0.24725274725274726,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.32159183009544284,0.25274725274725274,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.3220320506919653,0.25824175824175827,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.3298597499613869,0.26373626373626374,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.34511201136298797,0.2692307692307692,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.34604616556060214,0.27472527472527475,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.3509657304379157,0.2802197802197802,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.353124119389985,0.2857142857142857,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.3612223654520518,0.29120879120879123,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.36496381618851115,0.2967032967032967,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.37436686285172144,0.3021978021978022,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.37609077686005254,0.3076923076923077,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.3773879586166918,0.3131868131868132,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.39079689724779737,0.31868131868131866,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.406057058010778,0.3241758241758242,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4060774335889717,0.32967032967032966,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4091615834965733,0.33516483516483514,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4122964589565686,0.34065934065934067,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.41306494931034266,0.34615384615384615,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.41586123867900093,0.3516483516483517,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4166513922687772,0.35714285714285715,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4311169835718408,0.3626373626373626,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.43581604844560423,0.36813186813186816,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.43613394176209813,0.37362637362637363,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4373385234675179,0.3791208791208791,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.44008862360092454,0.38461538461538464,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.44442757960301976,0.3901098901098901,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4489331647040146,0.3956043956043956,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.45375668803784275,0.4010989010989011,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.46107147578957897,0.4065934065934066,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4664449965335894,0.41208791208791207,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.475890972545811,0.4175824175824176,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4780072783555634,0.4230769230769231,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.47841234187216836,0.42857142857142855,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.48588883514638764,0.4340659340659341,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4933045156232168,0.43956043956043955,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.4941015443129042,0.44505494505494503,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5033465063680057,0.45054945054945056,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5063879571344039,0.45604395604395603,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5213616159571828,0.46153846153846156,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5266024156090385,0.46703296703296704,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5267836560877295,0.4725274725274725,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5295182628365918,0.47802197802197804,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5311896028318142,0.4835164835164835,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5414370324393726,0.489010989010989,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5517110244227142,0.4945054945054945,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.553054142373952,0.5,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5569185258634435,0.5054945054945055,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5571226068096665,0.510989010989011,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5595578019185764,0.5164835164835165,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5601920847550628,0.521978021978022,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5640091251738283,0.5274725274725275,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5678528329023869,0.532967032967033,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5699429528061849,0.5384615384615384,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5713664964215814,0.5439560439560439,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5737357291735109,0.5494505494505495,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5774461674429401,0.554945054945055,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5778415901849613,0.5604395604395604,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5783701534060436,0.5659340659340659,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5864856088565427,0.5714285714285714,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5923892809542212,0.5769230769230769,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5935493801317454,0.5824175824175825,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5938006840201476,0.5879120879120879,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.5960232209454452,0.5934065934065934,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6041298432769123,0.5989010989010989,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6059144119436634,0.6043956043956044,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6104550737168599,0.6098901098901099,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6218837005639583,0.6153846153846154,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6236671014614317,0.6208791208791209,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6257227553351772,0.6263736263736264,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6332882002515725,0.6318681318681318,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6449635533780567,0.6373626373626373,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6542930244721775,0.6428571428571429,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6589388861165875,0.6483516483516484,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6599551967201516,0.6538461538461539,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.676015429539226,0.6593406593406593,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6765957785166034,0.6648351648351648,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6838402029395803,0.6703296703296703,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6847563284076978,0.6758241758241759,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.6906278706048612,0.6813186813186813,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.702549572023328,0.6868131868131868,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7096388866679917,0.6923076923076923,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7102660659741744,0.6978021978021978,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7140988673818853,0.7032967032967034,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.71561420996079,0.7087912087912088,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7180639495389447,0.7142857142857143,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7231298202236724,0.7197802197802198,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7232108489869191,0.7252747252747253,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7329544317550516,0.7307692307692307,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7377268285592415,0.7362637362637363,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7458661219563061,0.7417582417582418,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7511471188337552,0.7472527472527473,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7532971674256393,0.7527472527472527,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7553523268099935,0.7582417582417582,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7681111662917159,0.7637362637362637,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7757080507013595,0.7692307692307693,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7842262644270921,0.7747252747252747,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7863880993783638,0.7802197802197802,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7898205840078903,0.7857142857142857,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7926777495796761,0.7912087912087912,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.797568518674471,0.7967032967032966,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.7999400896168438,0.8021978021978022,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8022520054281976,0.8076923076923077,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8077800261777235,0.8131868131868132,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8196037086759814,0.8186813186813187,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8294610967716306,0.8241758241758241,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8296117435916959,0.8296703296703297,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8312353397928786,0.8351648351648352,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.831297019109179,0.8406593406593407,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8349609071892247,0.8461538461538461,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8397361603648847,0.8516483516483516,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8495793434953097,0.8571428571428571,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8648003597297694,0.8626373626373627,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8770014674252254,0.8681318681318682,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8797308623335883,0.8736263736263736,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8869725001735386,0.8791208791208791,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8927862381039796,0.8846153846153846,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8956842338244704,0.8901098901098901,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.8967504506787198,0.8956043956043956,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.906091211565898,0.9010989010989011,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9062301355637532,0.9065934065934066,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9266904392864843,0.9120879120879121,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9271181632397768,0.9175824175824175,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9372078833289477,0.9230769230769231,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.946859839443713,0.9285714285714286,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9502998466126958,0.9340659340659341,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9572488189432455,0.9395604395604396,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.957633628138363,0.945054945054945,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9597157015619606,0.9505494505494505,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9623403474942376,0.9560439560439561,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9674024344960017,0.9615384615384616,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9686767241913609,0.967032967032967,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9702797098296735,0.9725274725274725,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.974902268685481,0.978021978021978,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9771203397667885,0.9835164835164835,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9794230275507468,0.989010989010989,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9953949351105238,0.9945054945054945,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,0.9997310960153322,1.0,exact empirical step function
+aluminum,ratio_cdf_exact,physical,not_applicable,1.0,1.0,exact empirical step function
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.01,0.0,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.02,0.0,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.03,0.0,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.04,0.005494505494505495,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.05,0.005494505494505495,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.06,0.005494505494505495,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.07,0.01098901098901099,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.08,0.01098901098901099,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.09,0.016483516483516484,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.1,0.016483516483516484,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.11,0.027472527472527472,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.12,0.027472527472527472,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.13,0.04395604395604396,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.14,0.04395604395604396,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.15,0.04395604395604396,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.16,0.04395604395604396,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.17,0.04945054945054945,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.18,0.054945054945054944,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.19,0.07142857142857142,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.2,0.07692307692307693,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.21,0.08791208791208792,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.22,0.1043956043956044,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.23,0.11538461538461539,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.24,0.13186813186813187,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.25,0.14285714285714285,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.26,0.14835164835164835,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.27,0.15384615384615385,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.28,0.17582417582417584,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.29,0.1813186813186813,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.3,0.19230769230769232,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.31,0.2087912087912088,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.32,0.24175824175824176,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.33,0.26373626373626374,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.34,0.26373626373626374,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.35,0.27472527472527475,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.36,0.2857142857142857,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.37,0.2967032967032967,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.38,0.3131868131868132,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.39,0.3131868131868132,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.4,0.31868131868131866,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.41,0.33516483516483514,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.42,0.35714285714285715,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.43,0.35714285714285715,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.44,0.3791208791208791,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.45,0.3956043956043956,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.46,0.4010989010989011,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.47,0.41208791208791207,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.48,0.42857142857142855,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.49,0.4340659340659341,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.5,0.44505494505494503,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.51,0.45604395604395603,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.52,0.45604395604395603,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.53,0.47802197802197804,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.54,0.4835164835164835,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.55,0.489010989010989,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.56,0.5164835164835165,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.57,0.5384615384615384,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.58,0.5659340659340659,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.59,0.5714285714285714,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.6,0.5934065934065934,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.61,0.6043956043956044,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.62,0.6098901098901099,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.63,0.6263736263736264,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.64,0.6318681318681318,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.65,0.6373626373626373,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.66,0.6538461538461539,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.67,0.6538461538461539,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.68,0.6648351648351648,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.69,0.6758241758241759,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.7,0.6813186813186813,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.71,0.6923076923076923,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.72,0.7142857142857143,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.73,0.7252747252747253,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.74,0.7362637362637363,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.75,0.7417582417582418,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.76,0.7582417582417582,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.77,0.7637362637362637,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.78,0.7692307692307693,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.79,0.7857142857142857,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.8,0.8021978021978022,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.81,0.8131868131868132,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.82,0.8186813186813187,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.83,0.8296703296703297,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.84,0.8516483516483516,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.85,0.8571428571428571,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.86,0.8571428571428571,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.87,0.8626373626373627,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.88,0.8736263736263736,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.89,0.8791208791208791,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.9,0.8956043956043956,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.91,0.9065934065934066,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.92,0.9065934065934066,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.93,0.9175824175824175,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.94,0.9230769230769231,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.95,0.9285714285714286,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.96,0.9505494505494505,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.97,0.967032967032967,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.98,0.989010989010989,99 fixed inference grid points
+aluminum,ratio_cdf_test_grid,physical,not_applicable,0.99,0.989010989010989,99 fixed inference grid points
+aluminum,number_variance,poisson,affine,1.0,0.989275390625,2000-training-realization mean
+aluminum,number_variance,poisson,affine,2.0,1.9677509765625,2000-training-realization mean
+aluminum,number_variance,poisson,affine,4.0,3.898232421875,2000-training-realization mean
+aluminum,number_variance,poisson,affine,8.0,7.6124990234375,2000-training-realization mean
+aluminum,number_variance,goe,affine,1.0,0.4451416015625,2000-training-realization mean
+aluminum,number_variance,goe,affine,2.0,0.5808056640625,2000-training-realization mean
+aluminum,number_variance,goe,affine,4.0,0.7206708984375,2000-training-realization mean
+aluminum,number_variance,goe,affine,8.0,0.8627548828125,2000-training-realization mean
+aluminum,number_variance,physical,affine,1.0,0.4453125,512 origins; accepted finite-window estimator
+aluminum,number_variance,physical,affine,2.0,0.681640625,512 origins; accepted finite-window estimator
+aluminum,number_variance,physical,affine,4.0,1.0703125,512 origins; accepted finite-window estimator
+aluminum,number_variance,physical,affine,8.0,1.7421875,512 origins; accepted finite-window estimator
+aluminum,number_variance,poisson,quadratic,1.0,0.9846357421875,2000-training-realization mean
+aluminum,number_variance,poisson,quadratic,2.0,1.9551953125,2000-training-realization mean
+aluminum,number_variance,poisson,quadratic,4.0,3.8418701171875,2000-training-realization mean
+aluminum,number_variance,poisson,quadratic,8.0,7.3578974609375,2000-training-realization mean
+aluminum,number_variance,goe,quadratic,1.0,0.4453232421875,2000-training-realization mean
+aluminum,number_variance,goe,quadratic,2.0,0.5803486328125,2000-training-realization mean
+aluminum,number_variance,goe,quadratic,4.0,0.720390625,2000-training-realization mean
+aluminum,number_variance,goe,quadratic,8.0,0.86083203125,2000-training-realization mean
+aluminum,number_variance,physical,quadratic,1.0,0.44140625,512 origins; accepted finite-window estimator
+aluminum,number_variance,physical,quadratic,2.0,0.671875,512 origins; accepted finite-window estimator
+aluminum,number_variance,physical,quadratic,4.0,1.029296875,512 origins; accepted finite-window estimator
+aluminum,number_variance,physical,quadratic,8.0,1.8046875,512 origins; accepted finite-window estimator

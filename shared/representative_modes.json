@@ -1,0 +1,175 @@
+{
+  "panels": [
+    {
+      "panel": "a",
+      "system": "analytic_square",
+      "omega": 5.0,
+      "target": 5,
+      "exterior_mean_squared_pressure": 0.49859235135737684,
+      "material_circle": false,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "b",
+      "system": "analytic_square",
+      "omega": 30.0,
+      "target": 30,
+      "exterior_mean_squared_pressure": 0.5001684347161887,
+      "material_circle": false,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "c",
+      "system": "analytic_square",
+      "omega": 60.0,
+      "target": 60,
+      "exterior_mean_squared_pressure": 0.5001283183647182,
+      "material_circle": false,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "d",
+      "system": "empty_IEM",
+      "omega": 5.0,
+      "target": 5,
+      "exterior_mean_squared_pressure": 0.9971847027147562,
+      "material_circle": false,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "e",
+      "system": "empty_IEM",
+      "omega": 30.0,
+      "target": 30,
+      "exterior_mean_squared_pressure": 1.0003368694322772,
+      "material_circle": false,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "f",
+      "system": "empty_IEM",
+      "omega": 60.0,
+      "target": 60,
+      "exterior_mean_squared_pressure": 1.0002566367293735,
+      "material_circle": false,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "g",
+      "system": "gas",
+      "omega": 5.000351688022683,
+      "target": 5,
+      "exterior_mean_squared_pressure": 0.28659003134733657,
+      "material_circle": true,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "h",
+      "system": "gas",
+      "omega": 30.002079732256604,
+      "target": 30,
+      "exterior_mean_squared_pressure": 0.44194412868181576,
+      "material_circle": true,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "i",
+      "system": "gas",
+      "omega": 60.00025495374599,
+      "target": 60,
+      "exterior_mean_squared_pressure": 0.2489559515479537,
+      "material_circle": true,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "j",
+      "system": "aluminum",
+      "omega": 4.9995493254484,
+      "target": 5,
+      "exterior_mean_squared_pressure": 0.31258826935472434,
+      "material_circle": true,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "k",
+      "system": "aluminum",
+      "omega": 29.99778424464442,
+      "target": 30,
+      "exterior_mean_squared_pressure": 0.27127074916330424,
+      "material_circle": true,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    },
+    {
+      "panel": "l",
+      "system": "aluminum",
+      "omega": 60.00266035292053,
+      "target": 60,
+      "exterior_mean_squared_pressure": 0.35274173333477493,
+      "material_circle": true,
+      "quarter_grid": [
+        512,
+        512
+      ],
+      "trace_points": 4096
+    }
+  ],
+  "radius": 0.6139960247678931,
+  "order": "analytic square, empty-cell IEM, gas IEM, aluminum IEM",
+  "pressure_scale": [
+    0,
+    6
+  ],
+  "wall_map_scale": [
+    0,
+    8
+  ],
+  "coherent_alpha": 1.0,
+  "map_grid": [
+    512,
+    512
+  ]
+}

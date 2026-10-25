@@ -1,0 +1,82 @@
+{
+  "03": {
+    "title": "Totally reflected ray certificate",
+    "contents": "Certified incidence angles, sampled instability min/median/max, 12-state adjacency matrix.",
+    "directory": "F_03_ray_certificate"
+  },
+  "04": {
+    "title": "Central spectral scale contrast",
+    "contents": "Accepted statistics and stored finite-reference training quantiles, 26 < Omega <= 34.",
+    "directory": "F_04_spectral_scale_contrast"
+  },
+  "05": {
+    "title": "Expanded high-frequency spectral evidence",
+    "contents": "Exact empirical CDF steps and already evaluated training means/NV coordinates.",
+    "directory": "F_05_high_frequency_spectra"
+  },
+  "06": {
+    "title": "Representative pressure fields and empty-cell benchmark",
+    "contents": "12 normalized squared-pressure quarter grids. Empty rows have no circular cutout; parity expansion is plotting only.",
+    "directory": "F_06_pressure_modes"
+  },
+  "07": {
+    "title": "Representative Husimi-type wall maps",
+    "contents": "12 saved coherent pressure-trace densities H; normalized on 0<=q<2pi, -1<eta<1. No transform or solver runs when plotting.",
+    "directory": "F_07_wall_husimi"
+  },
+  "08": {
+    "title": "Complete central-ensemble ACF distances",
+    "contents": "Every modal joint-direction distance and its already computed whole-mode bootstrap intervals.",
+    "directory": "F_08_central_acf_distances"
+  },
+  "09": {
+    "title": "Wall participation and directional channels",
+    "contents": "All 2977 aluminum/control modes, alpha=1; empirical quantiles, not confidence intervals.",
+    "directory": "F_09_directional_mixing"
+  },
+  "10": {
+    "title": "Rigid intervention and planar reflection phase",
+    "contents": "184 ordered matched pairs, observed refinement envelopes, and accepted planar-interface phase samples.",
+    "directory": "F_10_rigid_interface_control"
+  },
+  "S01": {
+    "title": "Finite periodic-ray collision section",
+    "contents": "All 336 stored collision records at f=.03, triangle itinerary, certified thresholds and image centers.",
+    "directory": "S_01_periodic_ray_section"
+  },
+  "S02": {
+    "title": "High-frequency numerical-validation coordinates",
+    "contents": "Six order-refinement points, ten independent-MPS comparisons, all 144 ACF grid checks.",
+    "directory": "S_02_numerical_validation"
+  },
+  "S03": {
+    "title": "Central number variance, both unfoldings",
+    "contents": "All five sectors; affine/quadratic number variance and finite-reference quantiles.",
+    "directory": "S_03_number_variance"
+  },
+  "S04": {
+    "title": "Central-window ACF curves",
+    "contents": "Saved mean-x/y curves, already specified bootstrap plot bands and Bessel benchmarks; no bootstrap during plotting.",
+    "directory": "S_04_central_acf_curves"
+  },
+  "S05": {
+    "title": "Lower-window ACF curves",
+    "contents": "Saved mean-x/y curves, already specified bootstrap plot bands and Bessel benchmarks; no bootstrap during plotting.",
+    "directory": "S_05_low_frequency_acf_curves"
+  },
+  "S06": {
+    "title": "Lower-window ACF distances",
+    "contents": "All lower-window per-mode joint-direction distances and saved bootstrap mean intervals.",
+    "directory": "S_06_low_frequency_acf_distances"
+  },
+  "S07": {
+    "title": "High-frequency ACF curves and distances",
+    "contents": "All 48 gas/47 aluminum/49 square modal distances and stored plot bands, 60 < Omega <= 61.",
+    "directory": "S_07_high_frequency_acf"
+  },
+  "S08": {
+    "title": "Complete central energy partitions",
+    "contents": "Every one of the 1469 aluminum energy fractions, frequencies and sector summary data.",
+    "directory": "S_08_elastic_energy"
+  }
+}

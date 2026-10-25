@@ -1,0 +1,21 @@
+{
+  "sectors": [
+    "pps",
+    "ppa",
+    "pm",
+    "mp",
+    "mm"
+  ],
+  "systems": [
+    "gas",
+    "aluminum",
+    "integrable_square"
+  ],
+  "window": [
+    10.0,
+    18.0
+  ],
+  "bootstrap_seed": 20260926,
+  "bootstrap_repetitions": 5000,
+  "intervals": "Pointwise percentile 95% bands of the mean of x/y within a mode; whole-mode bootstrap."
+}

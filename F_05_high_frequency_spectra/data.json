@@ -1,0 +1,42 @@
+{
+  "summary": [
+    {
+      "material": "gas",
+      "levels": 185,
+      "adjacent_ratios": 183,
+      "mean_ratio": 0.5016341000972051,
+      "GOE_CDF_Holm_p": 0.5151742412879357,
+      "affine_variance": [
+        0.529296875,
+        0.765625,
+        1.357421875,
+        2.423828125
+      ],
+      "quadratic_variance": [
+        0.521484375,
+        0.779296875,
+        1.33984375,
+        2.427734375
+      ]
+    },
+    {
+      "material": "aluminum",
+      "levels": 184,
+      "adjacent_ratios": 182,
+      "mean_ratio": 0.5473509517239505,
+      "GOE_CDF_Holm_p": 0.9189540522973851,
+      "affine_variance": [
+        0.4453125,
+        0.681640625,
+        1.0703125,
+        1.7421875
+      ],
+      "quadratic_variance": [
+        0.44140625,
+        0.671875,
+        1.029296875,
+        1.8046875
+      ]
+    }
+  ]
+}

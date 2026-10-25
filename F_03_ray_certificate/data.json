@@ -1,0 +1,2832 @@
+{
+  "fills": [
+    0.01,
+    0.03,
+    0.06,
+    0.1
+  ],
+  "certificates": [
+    {
+      "fill": 0.01,
+      "radius_to_cell": 0.05641895835477563,
+      "critical_angle_deg": 6.130487493398099,
+      "incidence_lower_bound_deg": 20.71656000751628,
+      "margin_deg": 14.586072514118179,
+      "derivative_lower_bound": 1.8869820662952252,
+      "geometry_condition": true,
+      "triples": [
+        {
+          "triple": [
+            0,
+            1,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            0,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            0,
+            2,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            0,
+            2,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            0,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            0,
+            3,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            1,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            1,
+            0,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            1,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            1,
+            2,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            1,
+            3,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            1,
+            3,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            2,
+            0,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            2,
+            0,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            2,
+            1,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            2,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            2,
+            3,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            2,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            3,
+            0,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            3,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            3,
+            1,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            3,
+            1,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            3,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            3,
+            2,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        }
+      ],
+      "chaotic_ray_subset_proved": true,
+      "entropy_per_collision": 0.6931471805599453,
+      "all_itineraries": true,
+      "interval_arithmetic": false,
+      "material": "aluminum"
+    },
+    {
+      "fill": 0.03,
+      "radius_to_cell": 0.09772050238058398,
+      "critical_angle_deg": 6.130487493398099,
+      "incidence_lower_bound_deg": 19.29858975416147,
+      "margin_deg": 13.16810226076337,
+      "derivative_lower_bound": 1.8036190962660636,
+      "geometry_condition": true,
+      "triples": [
+        {
+          "triple": [
+            0,
+            1,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            0,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            0,
+            2,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            0,
+            2,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            0,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            0,
+            3,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            1,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            1,
+            0,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            1,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            1,
+            2,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            1,
+            3,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            1,
+            3,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            2,
+            0,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            2,
+            0,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            2,
+            1,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            2,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            2,
+            3,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            2,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            3,
+            0,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            3,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            3,
+            1,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            3,
+            1,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            3,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            3,
+            2,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        }
+      ],
+      "chaotic_ray_subset_proved": true,
+      "entropy_per_collision": 0.6931471805599453,
+      "all_itineraries": true,
+      "interval_arithmetic": false,
+      "material": "aluminum"
+    },
+    {
+      "fill": 0.06,
+      "radius_to_cell": 0.13819765978853418,
+      "critical_angle_deg": 6.130487493398099,
+      "incidence_lower_bound_deg": 17.801997131604285,
+      "margin_deg": 11.671509638206185,
+      "derivative_lower_bound": 1.720926881257294,
+      "geometry_condition": true,
+      "triples": [
+        {
+          "triple": [
+            0,
+            1,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            0,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            0,
+            2,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            0,
+            2,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            0,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            0,
+            3,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            1,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            1,
+            0,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            1,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            1,
+            2,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            1,
+            3,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            1,
+            3,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            2,
+            0,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            2,
+            0,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            2,
+            1,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            2,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            2,
+            3,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            2,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            3,
+            0,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            3,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            3,
+            1,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            3,
+            1,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            3,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            3,
+            2,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        }
+      ],
+      "chaotic_ray_subset_proved": true,
+      "entropy_per_collision": 0.6931471805599453,
+      "all_itineraries": true,
+      "interval_arithmetic": false,
+      "material": "aluminum"
+    },
+    {
+      "fill": 0.1,
+      "radius_to_cell": 0.1784124116152771,
+      "critical_angle_deg": 6.130487493398099,
+      "incidence_lower_bound_deg": 16.194328284171295,
+      "margin_deg": 10.063840790773195,
+      "derivative_lower_bound": 1.6373568567340233,
+      "geometry_condition": true,
+      "triples": [
+        {
+          "triple": [
+            0,
+            1,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            0,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            0,
+            2,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            0,
+            2,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            0,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            0,
+            3,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            1,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            1,
+            0,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            1,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            1,
+            2,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            1,
+            3,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            1,
+            3,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            2,
+            0,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            2,
+            0,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            2,
+            1,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            2,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            2,
+            3,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            2,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            3,
+            0,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            3,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            3,
+            1,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            3,
+            1,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            3,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            3,
+            2,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        }
+      ],
+      "chaotic_ray_subset_proved": true,
+      "entropy_per_collision": 0.6931471805599453,
+      "all_itineraries": true,
+      "interval_arithmetic": false,
+      "material": "aluminum"
+    },
+    {
+      "fill": 0.01,
+      "radius_to_cell": 0.05641895835477563,
+      "critical_angle_deg": 15.148766889615471,
+      "incidence_lower_bound_deg": 20.71656000751628,
+      "margin_deg": 5.567793117900807,
+      "derivative_lower_bound": 1.8869820662952252,
+      "geometry_condition": true,
+      "triples": [
+        {
+          "triple": [
+            0,
+            1,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            0,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            0,
+            2,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            0,
+            2,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            0,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            0,
+            3,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            1,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            1,
+            0,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            1,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            1,
+            2,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            1,
+            3,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            1,
+            3,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            2,
+            0,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            2,
+            0,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            2,
+            1,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            2,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            2,
+            3,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            2,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            3,
+            0,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        },
+        {
+          "triple": [
+            3,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            3,
+            1,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            3,
+            1,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            3,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 20.71656000751628
+        },
+        {
+          "triple": [
+            3,
+            2,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 44.01345980880018
+        }
+      ],
+      "chaotic_ray_subset_proved": true,
+      "entropy_per_collision": 0.6931471805599453,
+      "all_itineraries": true,
+      "interval_arithmetic": false,
+      "material": "gas"
+    },
+    {
+      "fill": 0.03,
+      "radius_to_cell": 0.09772050238058398,
+      "critical_angle_deg": 15.148766889615471,
+      "incidence_lower_bound_deg": 19.29858975416147,
+      "margin_deg": 4.149822864545998,
+      "derivative_lower_bound": 1.8036190962660636,
+      "geometry_condition": true,
+      "triples": [
+        {
+          "triple": [
+            0,
+            1,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            0,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            0,
+            2,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            0,
+            2,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            0,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            0,
+            3,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            1,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            1,
+            0,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            1,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            1,
+            2,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            1,
+            3,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            1,
+            3,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            2,
+            0,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            2,
+            0,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            2,
+            1,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            2,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            2,
+            3,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            2,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            3,
+            0,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        },
+        {
+          "triple": [
+            3,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            3,
+            1,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            3,
+            1,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.298589754161473
+        },
+        {
+          "triple": [
+            3,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 19.29858975416147
+        },
+        {
+          "triple": [
+            3,
+            2,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 43.236078649518326
+        }
+      ],
+      "chaotic_ray_subset_proved": true,
+      "entropy_per_collision": 0.6931471805599453,
+      "all_itineraries": true,
+      "interval_arithmetic": false,
+      "material": "gas"
+    },
+    {
+      "fill": 0.06,
+      "radius_to_cell": 0.13819765978853418,
+      "critical_angle_deg": 15.148766889615471,
+      "incidence_lower_bound_deg": 17.801997131604285,
+      "margin_deg": 2.6532302419888136,
+      "derivative_lower_bound": 1.720926881257294,
+      "geometry_condition": true,
+      "triples": [
+        {
+          "triple": [
+            0,
+            1,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            0,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            0,
+            2,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            0,
+            2,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            0,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            0,
+            3,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            1,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            1,
+            0,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            1,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            1,
+            2,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            1,
+            3,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            1,
+            3,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            2,
+            0,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            2,
+            0,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            2,
+            1,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            2,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            2,
+            3,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            2,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            3,
+            0,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        },
+        {
+          "triple": [
+            3,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            3,
+            1,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            3,
+            1,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            3,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 17.801997131604285
+        },
+        {
+          "triple": [
+            3,
+            2,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 42.42250707985816
+        }
+      ],
+      "chaotic_ray_subset_proved": true,
+      "entropy_per_collision": 0.6931471805599453,
+      "all_itineraries": true,
+      "interval_arithmetic": false,
+      "material": "gas"
+    },
+    {
+      "fill": 0.1,
+      "radius_to_cell": 0.1784124116152771,
+      "critical_angle_deg": 15.148766889615471,
+      "incidence_lower_bound_deg": 16.194328284171295,
+      "margin_deg": 1.0455613945558238,
+      "derivative_lower_bound": 1.6373568567340233,
+      "geometry_condition": true,
+      "triples": [
+        {
+          "triple": [
+            0,
+            1,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            0,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            0,
+            2,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            0,
+            2,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            0,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            0,
+            3,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            1,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            1,
+            0,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            1,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            1,
+            2,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            1,
+            3,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            1,
+            3,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            2,
+            0,
+            1
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            2,
+            0,
+            3
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            2,
+            1,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            2,
+            1,
+            3
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            2,
+            3,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            2,
+            3,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            3,
+            0,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        },
+        {
+          "triple": [
+            3,
+            0,
+            2
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            3,
+            1,
+            0
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            3,
+            1,
+            2
+          ],
+          "distances": [
+            1.4142135623730951,
+            1.0
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            3,
+            2,
+            0
+          ],
+          "distances": [
+            1.0,
+            1.4142135623730951
+          ],
+          "center_angle_deg": 45.00000000000001,
+          "incidence_lower_bound_deg": 16.194328284171295
+        },
+        {
+          "triple": [
+            3,
+            2,
+            1
+          ],
+          "distances": [
+            1.0,
+            1.0
+          ],
+          "center_angle_deg": 90.0,
+          "incidence_lower_bound_deg": 41.55671051769361
+        }
+      ],
+      "chaotic_ray_subset_proved": true,
+      "entropy_per_collision": 0.6931471805599453,
+      "all_itineraries": true,
+      "interval_arithmetic": false,
+      "material": "gas"
+    }
+  ],
+  "incidence": [
+    20.71656000751628,
+    19.29858975416147,
+    17.801997131604285,
+    16.194328284171295
+  ],
+  "instability": [
+    [
+      3.781260263878547,
+      3.8115278950217077,
+      3.8735270652621354
+    ],
+    [
+      3.201635655061533,
+      3.231287636181167,
+      3.292382200827865
+    ],
+    [
+      2.823920545432713,
+      2.8531966138893488,
+      2.913014705506304
+    ],
+    [
+      2.5360059125339314,
+      2.5652135142849946,
+      2.6232722676613505
+    ]
+  ],
+  "adjacency": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

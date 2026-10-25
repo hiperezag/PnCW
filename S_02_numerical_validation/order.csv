@@ -1,0 +1,7 @@
+system,previous_order,order,count,maximum_drift_to_local_gap,frequency_gate,full_stage_passed
+gas,18,20,48,0.13286516045247884,0.001,False
+gas,20,22,48,0.003720004787652558,0.001,False
+gas,22,24,48,6.297374661250818e-05,0.001,True
+aluminum,18,20,47,0.09316235156717366,0.001,False
+aluminum,20,22,47,0.0022497289607614586,0.001,False
+aluminum,22,24,47,3.346330225538805e-05,0.001,True
