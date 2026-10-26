@@ -23,54 +23,31 @@ case "${1:-}" in
   *) printf 'Usage: sh setup_macos.sh [--check]\n' >&2; exit 2 ;;
 esac
 
-is_python_312() {
-  "$1" -c 'import sys; raise SystemExit(sys.version_info[:2] != (3, 12))' >/dev/null 2>&1
+is_supported_python() {
+  "$1" -c 'import sys; raise SystemExit(not (3, 9) <= sys.version_info[:2] <= (3, 14))' >/dev/null 2>&1
 }
 
 python_executable=''
 if [ -n "${PNCW_PYTHON:-}" ]; then
-  if ! is_python_312 "$PNCW_PYTHON"; then
-    printf 'PNCW_PYTHON must point to a working Python 3.12 interpreter.\n' >&2
+  if ! is_supported_python "$PNCW_PYTHON"; then
+    printf 'PNCW_PYTHON must point to a working Python 3.9-3.14 interpreter.\n' >&2
     exit 1
   fi
   python_executable=$PNCW_PYTHON
 else
-  for candidate in python3.12 python3; do
-    if command -v "$candidate" >/dev/null 2>&1 && is_python_312 "$candidate"; then
+  for candidate in python3 python python3.14 python3.13 python3.12 python3.11 python3.10 python3.9; do
+    if command -v "$candidate" >/dev/null 2>&1 && is_supported_python "$candidate"; then
       python_executable=$(command -v "$candidate")
       break
     fi
   done
-  if [ -z "$python_executable" ]; then
-    for brew_candidate in brew /opt/homebrew/bin/brew /usr/local/bin/brew; do
-      if command -v "$brew_candidate" >/dev/null 2>&1; then
-        brew_prefix=$("$brew_candidate" --prefix python@3.12 2>/dev/null || true)
-        if [ -n "$brew_prefix" ] && is_python_312 "$brew_prefix/bin/python3.12"; then
-          python_executable=$brew_prefix/bin/python3.12
-          break
-        fi
-      fi
-    done
-  fi
 fi
 
 if [ -z "$python_executable" ]; then
-  printf 'Python 3.12 was not found. Install it, then rerun this script.\n' >&2
-  printf 'With Homebrew: brew install python@3.12\n' >&2
-  printf 'Without Homebrew: https://www.python.org/downloads/\n' >&2
+  printf 'No supported Python interpreter was found in PATH (Python 3.9-3.14).\n' >&2
+  printf 'Use PNCW_PYTHON=/absolute/path/to/python or see README.txt.\n' >&2
   exit 1
 fi
 
-printf 'Using %s\n' "$python_executable"
-if [ "${1:-}" = '--check' ]; then
-  exit 0
-fi
-
-if [ -L .venv ]; then
-  printf '.venv is a symbolic link; replace it with a local directory before setup.\n' >&2
-  exit 1
-fi
-
-"$python_executable" -m venv --clear .venv
-.venv/bin/python -m pip install -r requirements.txt
-.venv/bin/python -c 'import numpy, matplotlib; print("Ready: NumPy", numpy.__version__, "Matplotlib", matplotlib.__version__)'
+# Compatibility entry point; installation logic is shared with Windows/Linux.
+exec "$python_executable" setup_env.py "$@"

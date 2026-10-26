@@ -1,0 +1,66 @@
+PnCW - LOCAL COMPATIBILITY VERIFICATION
+======================================
+Review date: 26 October 2026.
+Scope: this local PnCW plotting package and its sixteen saved-data figures.
+
+INSTALLATION TARGET
+The installer accepts Python 3.9-3.14 and uses the running interpreter to
+create a local virtual environment. requirements.txt specifies dependency
+ranges with Python-version markers. It preserves the NumPy 1.x branch
+for Python 3.9-3.12 and uses NumPy 2.3.x for Python 3.13-3.14. Prebuilt
+wheels are selected for the active interpreter, operating system and CPU.
+The target range is bounded; it is not a guarantee for every interpreter
+implementation, operating-system release or future Python/library version.
+
+EXECUTED LOCAL CHECKS
+Machine: macOS 15.8.1, Intel x86_64.
+
+Python       NumPy     Matplotlib    Result
+3.12.13      1.26.4    3.10.7        All 16 figure PDFs generated.
+3.14.6       2.3.5     3.10.9        All 16 figure PDFs generated.
+
+Both installations passed pip check, active-requirement version checks,
+and NumPy/Matplotlib binary imports. Each run generated Figures 03-10
+and S01-S08 sequentially, with the environment recorded in PLOT_RUN.json.
+The PDF pages were reopened, rendered and visually inspected, including
+the pressure and wall-map atlases. Input data and the sixteen figure-specific
+plot.py scripts were preserved. These checks render stored numerical
+results; they are not additional physical convergence or inference runs.
+
+All nineteen distributed Python scripts pass Python 3.9 grammar parsing
+and Python 3.14 compilation. The macOS shell wrapper passes shell syntax
+checking and interpreter selection with both installed Python versions.
+The --list and --check-env interfaces also passed their local checks.
+Checks also confirmed that a venv belonging to another Python minor
+version is not cleared, and output cannot overwrite distributed figure
+directories. Figures 6 and 7 retain thirteen raster objects each (twelve
+panels and a color scale), with matching page and raster dimensions in
+the two tested environments.
+
+INTERPRETATION OF THE RANGE
+Python 3.9, 3.10, 3.11 and 3.13 were not executed in this review. Their
+support is a compatibility target based on the script syntax/API baseline
+and dependency metadata, not a separate successful local execution.
+Windows, Linux and Apple Silicon execution were not available on this
+machine. Instructions use platform-independent Python modules and each
+system's virtual-environment executable path; those platforms still need
+their own execution checks. Wheel availability is an additional constraint.
+
+The earlier figure-preparation environment used Python 3.12, NumPy 1.26.4
+and Matplotlib 3.8.4. That exact interpreter/library combination is not
+mandatory for normal installation. Small changes in font metrics, layout,
+PDF encoding and raster sampling are possible across library versions;
+byte-for-byte PDF identity is not claimed. The distributed numerical
+values, panel order, physical normalization and export resolutions remain
+unchanged.
+
+LOCAL FILES AND DISTRIBUTION
+Local test environments, rendered PDFs, inspection images and detailed
+checks are under .validation/. pip download cache is under .cache/.
+These are excluded by .gitignore and are not repository inputs. Omit
+them when uploading files through a browser. See README.txt for installation
+and plotting commands on macOS, Windows and Linux.
+
+The model companion refers installation details to README.txt. Its
+scientific text, equations, diagrams and figure-to-data correspondence
+were retained. This review made no changes to the remote GitHub repository.

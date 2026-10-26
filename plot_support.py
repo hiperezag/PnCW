@@ -19,11 +19,13 @@ import argparse
 import csv
 import json
 import os
+from setup_env import check_environment
 
 # Sequential plotting, including on an 8-GB iMac. No multiprocessing/MPI.
 for _name in ('OMP_NUM_THREADS','OPENBLAS_NUM_THREADS','MKL_NUM_THREADS','VECLIB_MAXIMUM_THREADS'):
     os.environ[_name]='1'
 os.environ.setdefault('MPLCONFIGDIR', str(Path(__file__).resolve().parent/'generated/.matplotlib'))
+check_environment()
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt

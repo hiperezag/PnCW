@@ -14,14 +14,17 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-"""PnCW: render the sixteen numerical-result figures from supplied data.
+r"""PnCW: render the sixteen numerical-result figures from supplied data.
 
-Terminal setup (macOS, Python 3.12):
-  sh setup_macos.sh
+Terminal setup with an installed compatible Python (see README.txt):
+  macOS/Linux: python3 setup_env.py
+  Windows:    py setup_env.py
 
 Render all sixteen PDFs, sequentially:
   .venv/bin/python main.py
   .venv/bin/python main.py --output generated
+
+On Windows use .venv\Scripts\python.exe instead of .venv/bin/python.
 
 Select figures or add PNG previews:
   .venv/bin/python main.py --list
@@ -41,6 +44,7 @@ import json
 import os
 import subprocess
 import sys
+from setup_env import check_environment
 
 ROOT=Path(__file__).resolve().parent
 
@@ -52,7 +56,7 @@ def main():
     parser.add_argument('--output',type=Path,default=ROOT/'generated',help='Output directory (default: generated/)')
     parser.add_argument('--png',action='store_true',help='Also export 240-dpi PNG previews')
     args=parser.parse_args()
-    index=json.loads((ROOT/'FIGURE_INDEX.json').read_text())
+    index=json.loads((ROOT/'FIGURE_INDEX.json').read_text(encoding='utf-8'))
     if args.list:
         for key,value in index.items():print(key+'  '+value['directory']+'  '+value['title'])
         return
@@ -67,6 +71,8 @@ def main():
     if output==ROOT or any(output.is_relative_to(path) for path in protected):
         parser.error('Output must not overwrite distributed data or code directories.')
     output.mkdir(parents=True,exist_ok=True)
+    os.environ.setdefault('MPLCONFIGDIR',str(output/'.matplotlib'))
+    environment=check_environment()
     env=os.environ.copy()
     for key in ('OMP_NUM_THREADS','OPENBLAS_NUM_THREADS','MKL_NUM_THREADS','VECLIB_MAXIMUM_THREADS'):
         env[key]='1'
@@ -83,8 +89,9 @@ def main():
         if not pdf.is_file() or pdf.stat().st_size<500:raise RuntimeError('PDF not generated: '+str(pdf))
         records.append(dict(figure=key,pdf=pdf.name))
     record=dict(scope='Rendering supplied numerical data only; no physical solves or new inference.',
-                count=len(records),python=sys.version.split()[0],figures=records)
-    (output/'PLOT_RUN.json').write_text(json.dumps(record,indent=2)+'\n')
+                count=len(records),python=sys.version.split()[0],
+                environment=environment,figures=records)
+    (output/'PLOT_RUN.json').write_text(json.dumps(record,indent=2)+'\n',encoding='utf-8')
     print(f'Completed: {len(records)} figures in {output}',flush=True)
 
 
