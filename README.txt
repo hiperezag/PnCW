@@ -106,20 +106,6 @@ Individual plot.py scripts also run from their own directories. They
 use only files inside this package. The PDF settings retain each figure's
 own export requirements.
 
-COMPATIBILITY VERIFICATION
-The interpreter/dependency range above is a compatibility target, not a
-claim that every version combination has been executed on every platform.
-The local verification record is in COMPATIBILITY.txt. Rendering with
-different library versions may change font metrics, layout, PDF encoding
-or raster sampling slightly. Input arrays, frequencies, normalization and
-statistical decisions remain those distributed with this package.
-PLOT_RUN.json identifies the environment of each successful rendering run.
-Upload the distributed source/data/documentation files to the repository;
-keep .venv/, .validation/, .cache/, generated/ and __pycache__/ local.
-.gitignore excludes these directories when using git; when uploading in
-the browser, omit them manually. User-selected output directories should
-also be omitted unless deliberately publishing generated figures.
-
 CONTENTS AND DATA
 CSV files contain numerical tables. NPZ files contain losslessly
 compressed numerical arrays, loaded without executable objects.
